@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/test/build",
-  "command": "D:\\Ungdung\\msys2\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\sfml_test.dir\\src\\main.cpp.obj -c D:\\test\\src\\main.cpp",
-  "file": "D:/test/src/main.cpp",
-  "output": "CMakeFiles/sfml_test.dir/src/main.cpp.obj"
-}
-]
