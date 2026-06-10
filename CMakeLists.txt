@@ -8,7 +8,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(sfml_test
     # src/main.cpp
     # src/lesson2.cpp
-    src/lesson3.cpp
+    # src/lesson3.cpp
+    src/lesson4.cpp
 )
 
 find_package(SFML 3 REQUIRED COMPONENTS Graphics Window System Audio)
