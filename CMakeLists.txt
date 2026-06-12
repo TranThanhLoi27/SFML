@@ -14,7 +14,8 @@ add_executable(sfml_test
     # src/lesson7.cpp
     # src/lesson8.cpp
     # src/lesson9.cpp
-    src/lesson10.cpp
+    # src/lesson10.cpp
+    src/lesson11.cpp
 )
 
 find_package(SFML 3 REQUIRED COMPONENTS Graphics Window System Audio)
